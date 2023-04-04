@@ -55,15 +55,15 @@ I am a highly skilled QA Engineer with extensive experience building and impleme
 
 ## :floppy_disk:Projects
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/obojeoboje/diploma_staya)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Demo UI Project (Selene)](https://github.com/obojeoboje/diploma_staya)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### API autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/obojeoboje/demo_api_tests)
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Demo API Project (Requests)](https://github.com/obojeoboje/demo_api_tests)
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ### Mobile autotests
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages]()
+##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Demo Mobile Project (Selene)]()
 
 
 <!--Git Stats-->
